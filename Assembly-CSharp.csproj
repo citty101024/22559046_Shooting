@@ -66,6 +66,11 @@
     <Compile Include="Assets\Scripts\Monster.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\MyAssets\Quirky Series - Birds Bundle\_Shader\SoftSurface.shader" />
+    <None Include="Assets\MyAssets\LittleFriends-CartoonAnimals-Lite\Readme\LittleFriends-CartoonAnimals-Lite.txt" />
+    <None Include="Assets\MyAssets\Quirky Series - Birds Bundle\_Shader\ToonRamp.shader" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.45f2\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
       <Private>False</Private>
