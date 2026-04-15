@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\22559046_Shooting\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|d:\\git\\22559046_shooting\\assets\\scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\22559046_shooting\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\assets\\scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|d:\\git\\22559046_shooting\\assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|D:\\Git\\22559046_Shooting\\assets\\scripts\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\assets\\scripts\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|D:\\Git\\22559046_Shooting\\assets\\scripts\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\assets\\scripts\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B647A4E7-29A5-9C81-8771-609A3B9DAF25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,40 +35,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Background.cs",
-              "DocumentMoniker": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\Background.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Background.cs",
-              "ToolTip": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\Background.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Background.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T21:24:32.627Z",
+              "WhenOpened": "2026-04-15T01:46:07.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\Monster.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster.cs",
-              "ToolTip": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\Monster.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Monster.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAAxAAAAAAAAAA==",
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\Background.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T02:41:43.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-04-14T21:24:32.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\Monster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:41:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MonsterManager.cs",
-              "DocumentMoniker": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\MonsterManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\MonsterManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MonsterManager.cs",
-              "ToolTip": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\MonsterManager.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\MonsterManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\MonsterManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CutLineWall.cs",
-              "DocumentMoniker": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\CutLineWall.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\CutLineWall.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CutLineWall.cs",
-              "ToolTip": "D:\\Git\\22559046_Shooting\\Assets\\Scripts\\CutLineWall.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\22559046_Shooting\\Assets\\Scripts\\CutLineWall.cs",
               "RelativeToolTip": "Assets\\Scripts\\CutLineWall.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
