@@ -349,6 +349,7 @@
 "Assets/Scripts/BulletFire.cs"
 "Assets/Scripts/CharacterMove.cs"
 "Assets/Scripts/CutLineWall.cs"
+"Assets/Scripts/HPManager.cs"
 "Assets/Scripts/Monster.cs"
 "Assets/Scripts/MonsterManager.cs"
 "Assets/Scripts/ScoreManager.cs"

@@ -94,6 +94,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletObject: {fileID: 8120684302371442511, guid: a70ca4622d2b66c48a1cee49bc3be4fb, type: 3}
   bulletFireObject: {fileID: 3927273342133474852}
+  anim: {fileID: 0}
 --- !u!136 &6806386299322273264
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -163,6 +164,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LittleCat
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: d7061d2ec501adb4da1e842bf1f2be57, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e7a182ff0492d6446b7d250bc5c4cae1, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d7061d2ec501adb4da1e842bf1f2be57, type: 3}
 --- !u!4 &518753493958540197 stripped
