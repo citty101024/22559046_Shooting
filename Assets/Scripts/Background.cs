@@ -16,7 +16,7 @@ public class Background : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 direction = Vector2.up;
+        Vector2 direction = Vector2.right;
         materialBG.mainTextureOffset += direction * scrollSpd * Time.deltaTime;
     }
 }

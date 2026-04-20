@@ -6,6 +6,7 @@ public class BulletFire : MonoBehaviour
 {
     public GameObject bulletObject;
     public GameObject bulletFireObject;
+    public Animator anim;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +20,8 @@ public class BulletFire : MonoBehaviour
         bool isFire = Input.GetButtonDown("Jump");
         if (isFire)
         {
+            anim = GameObject.Find("LittleCat").GetComponent<Animator>();
+            anim.SetTrigger("Throw");
             GameObject bullet = Instantiate(bulletObject);
             bullet.transform.position = bulletFireObject.transform.position;
         }
