@@ -31,4 +31,10 @@ public class HPManager : MonoBehaviour
             }
         }
     }
+    public void Heal(int amount)
+    {
+        hp += amount;
+        if (hp > 100) hp = 100;
+        hpText.text = "HP : " + hp;
+    }
 }

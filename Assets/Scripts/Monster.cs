@@ -26,13 +26,20 @@ public class Monster : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
+       
         if (collision.gameObject.tag == "Bullet")
         {
             GameObject gameManager = GameObject.Find("GameManager");
             ScoreManager scoreManager = gameManager.GetComponent<ScoreManager>();
+            MonsterDropper dropper = GetComponent<MonsterDropper>();
 
             scoreManager.nowScore++;
             scoreManager.nowScoreUI.text = "Now Score : " + scoreManager.nowScore;
+
+            if (dropper != null)
+            {
+                dropper.Drop();
+            }
 
             if (scoreManager.nowScore > scoreManager.bestScore)
             {
@@ -46,8 +53,10 @@ public class Monster : MonoBehaviour
 
             Destroy(collision.gameObject);
             Destroy(gameObject);
+
         }
     }
+    
     private void OnTriggerEnter(Collider wall)
     {
         if (wall.CompareTag("Wall"))
